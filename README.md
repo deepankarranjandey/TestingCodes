@@ -1,1 +1,1 @@
-Java practice examples are present
+Java practice examples are added
